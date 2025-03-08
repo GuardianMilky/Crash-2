@@ -38,9 +38,19 @@ ServerEvents.recipes(event => {
             "mekanismtools:osmium_helmet",
             "mekanismtools:osmium_chestplate",
             "mekanismtools:osmium_leggings",
-            "mekanismtools:osmium_boots"
-
-            
+            "mekanismtools:osmium_boots",
+            "mekanismtools:wood_paxel",
+            "mekanismtools:stone_paxel",
+            "mekanismtools:iron_paxel",
+            "mekanismtools:diamond_paxel",
+            "mekanismtools:gold_paxel",
+            "mekanismtools:netherite_paxel",
+            "mekanismtools:bronze_paxel",
+            "mekanismtools:lapis_lazuli_paxel",
+            "mekanismtools:osmium_paxel",
+            "mekanismtools:refined_glowstone_paxel",
+            "mekanismtools:refined_obsidian_paxel",
+            "mekanismtools:steel_paxel"
         ]
      });    
 });
